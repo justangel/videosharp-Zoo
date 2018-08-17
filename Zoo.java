@@ -3,5 +3,6 @@ public class Zoo {
         System.out.println("Добро пожаловать в Зоопарк.");
         Zebra zebra = new Zebra();
         Hippo hippo = new Hippo();
+        Giraffe giraffe = new Giraffe();
     } //public static void main(String ... args)
 }
